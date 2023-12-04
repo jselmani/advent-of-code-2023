@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2023",
+  "private": false,
+  "author": "Jiel Selmani",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "day-1-1": "node ./src/day-1/1.js",
+    "day-1-2": "node ./src/day-1/2.js"
+  }
+}
