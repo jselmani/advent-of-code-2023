@@ -1,5 +1,4 @@
-import {calibrationDocument} from "./data.mjs";
-
+import {calibrationDocument} from "./data/data.mjs";
 
 function adventOfCodeDay1Part1() {
     let sum = 0;
