@@ -6,6 +6,8 @@
   "type": "module",
   "scripts": {
     "day-1-1": "node ./src/day-1/1.js",
-    "day-1-2": "node ./src/day-1/2.js"
+    "day-1-2": "node ./src/day-1/2.js",
+    "day-2-1": "node ./src/day-2/1.js",
+    "day-2-2": "node ./src/day-2/2.js"
   }
 }
